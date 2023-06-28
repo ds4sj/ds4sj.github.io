@@ -22,4 +22,12 @@ We published this website to accompany our paper "Data Science and Social Justic
 ::: {#team}
 :::   
 
+My name is Joe Hibdon and I edited this file on June 28, 2023.
       
+I keep making changes to the Team page so I do not break anything.  Do you think it would be okay to break the website?
+
+# Here are some interesting people to add to this contribution.
+- Ron B.
+- Omayra O.
+- Victor
+- Rachel R.
