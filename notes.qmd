@@ -225,4 +225,4 @@ This page contains notes on the paper "Data Science and Social Justice in the Ma
     </tr>
 </table>
  
-
+My name is Victor Piercey, and I'm a tool.
