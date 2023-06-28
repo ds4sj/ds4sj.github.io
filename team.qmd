@@ -22,4 +22,4 @@ We published this website to accompany our paper "Data Science and Social Justic
 ::: {#team}
 :::   
 
-      
+My name is ------ and I edited this file! 
