@@ -17,3 +17,6 @@ To contribute to this website, you may do one of two things:
 3. If you are not able to submit a pull request on GitHub, you may [email Phil Chodrow](mailto:pchodrow@middlebury.edu) with the text of your contribution and clear instructions about where modification should be pleased. Please note that this method may result in significantly slower updates. 
 
 I am making an edit.  Go team! - j
+
+
+THis is a second edit made locally from VS Code. Best workshop ever.

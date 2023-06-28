@@ -46,7 +46,7 @@
     "href": "contributing.html",
     "title": "Contributing",
     "section": "",
-    "text": "To contribute to this website, you may do one of two things:\n\nThe preferred method is to submit a pull request on GitHub:\n\nNavigate to the site’s GitHub repository.\nIdentify the page on which you would like to contribute. Common choices:\n\nResources\nAbout\nNotes\n\nEdit the content through the GitHub interface.\nSubmit a pull request with your changes when you are finished.\nWe will review and deploy your contribution when we can!\n\n(Advanced): you may fork the entire site and submit a pull request. This is the best approach if you have many changes.\nIf you are not able to submit a pull request on GitHub, you may email Phil Chodrow with the text of your contribution and clear instructions about where modification should be pleased. Please note that this method may result in significantly slower updates."
+    "text": "To contribute to this website, you may do one of two things:\n\nThe preferred method is to submit a pull request on GitHub:\n\nNavigate to the site’s GitHub repository.\nIdentify the page on which you would like to contribute. Common choices:\n\nResources\nAbout\nNotes\n\nEdit the content through the GitHub interface.\nSubmit a pull request with your changes when you are finished.\nWe will review and deploy your contribution when we can!\n\n(Advanced): you may fork the entire site and submit a pull request. This is the best approach if you have many changes.\nIf you are not able to submit a pull request on GitHub, you may email Phil Chodrow with the text of your contribution and clear instructions about where modification should be pleased. Please note that this method may result in significantly slower updates.\n\nI am making an edit. Go team! - j"
   },
   {
     "objectID": "team.html",
@@ -194,5 +194,12 @@
     "title": "Resources",
     "section": "Organizations",
     "text": "Organizations"
+  },
+  {
+    "objectID": "resource-pages/other-resources.html#courses",
+    "href": "resource-pages/other-resources.html#courses",
+    "title": "Other Resources",
+    "section": "Courses",
+    "text": "Courses\n\nCalling Bullshit, a course by Carl Bergstrom and Jevin West at the University of Washington."
   }
 ]
